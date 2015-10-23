@@ -301,6 +301,7 @@
 				9A19197E1BB1B1BA0079DEFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
